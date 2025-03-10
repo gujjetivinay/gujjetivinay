@@ -5,7 +5,7 @@
 
 # 🌟 About Me
 - 🎓 Bachelor of Computer Science – Acharya Nagarjuna University (2024)
-- 💻 Experienced in HTML, CSS, JavaScript, WordPress, Wix, Framer.
+- 💻 Experienced in HTML, CSS, JavaScript,Bootstrap, WordPress, Wix, Framer.
 - 🎨 Love working with designs, animations, and vintage aesthetics
 - 📍 Based in Mumbai, India.
 
